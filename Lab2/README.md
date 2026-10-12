@@ -1,5 +1,5 @@
 # Laboratorio 2 - DVWA
-Informe correspondiente al Laboratorio 2 de la asignatura.
+Informe correspondiente al Laboratorio 2.
 
 ## Contenido
 
