@@ -4,8 +4,8 @@ Repositorio con los informes y actividades desarrolladas durante la asignatura d
 
 ## Laboratorios
 
-   * [Laboratorio 1 - Cifrado César e ICMP](./lab1/)
-   * [Laboratorio 2 - DVWA](./lab2/)
+   * [Laboratorio 1 - Cifrado César e ICMP](./Lab1/)
+   * [Laboratorio 2 - DVWA](./Lab2/)
 
 ## Autor
 
